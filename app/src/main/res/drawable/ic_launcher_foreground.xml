@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Scholar Hat -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,28 L28,40 L54,52 L80,40 Z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M38,46 L38,58 C38,65 70,65 70,58 L70,46 L54,53 Z" />
+    <path
+        android:fillColor="#FACC15"
+        android:strokeColor="#FACC15"
+        android:strokeWidth="1.5"
+        android:pathData="M78,41 L82,53 L81,61" />
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M81,61m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <!-- Terminal / Code Screen with Code Brackets -->
+    <path
+        android:fillColor="#0F172A"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:pathData="M32,62 L76,62 A3,3 0 0,1 79,65 L79,81 A3,3 0 0,1 76,84 L32,84 A3,3 0 0,1 29,81 L29,65 A3,3 0 0,1 32,62 Z" />
+    
+    <!-- Code Brackets < / > -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,68 L38,73 L43,78" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F43F5E"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M52,68 L48,78" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M59,68 L64,73 L59,78" />
+</vector>
